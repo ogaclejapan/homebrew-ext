@@ -1,6 +1,6 @@
 cask 'flutter-sdk' do
-  version '0.3.1'
-  sha256 'a88356eb37c37e89f92698ed06eaf02d6364c50f6accea6fe793b9d04c9e0c98'
+  version '0.3.2'
+  sha256 '33154ca2dedd0d3c657668fff1b0edcb4c3f08e7c89fd12c5487dd4e5e32e496'
 
   # storage.googleapis.com/flutter_infra/releases/beta/macos was verified as official when first introduced to the cask
   url "https://storage.googleapis.com/flutter_infra/releases/beta/macos/flutter_macos_v#{version}-beta.zip"
